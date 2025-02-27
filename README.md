@@ -1,5 +1,6 @@
 ## <div align="center"> 👋 Hi! I'm `@EvelynSantos`, welcome to my `Github profile` (●'◡'●).</div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=4DCAF9&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);)](https://git.io/typing-svg)
   <br>
 <div>
    <img align="right" alt="EvelynSantos" width="230" height="230" src="https://media1.tenor.com/m/RGzWBl84imwAAAAC/aesthetic-anime.gif">
