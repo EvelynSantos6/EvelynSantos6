@@ -14,14 +14,21 @@
   
 - 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
-- Natural de Itaquaquecetuba - São Paulo.
+- 📍 Natural de Itaquaquecetuba - São Paulo.
 
 - ✨ **Pronome:** Ela/Dela
 </div>
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=60BAF9FF&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Repositórios+Favoritos" alt="Typing SVG" /></a>
+
+ ## <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=❤️+Repositórios+Favoritos" 
+       alt="Typing SVG">
+   
+   
+   
+</a>
 <div align="center">
 
 
@@ -42,6 +49,14 @@
   </picture>
 </a>
 
+<p align="center"><br>
+  <!-- Link para todos os seus repositórios -->
+  <a href="https://github.com/EvelynSantos6?tab=repositories">
+    <picture>
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-60BAF9?style=for-the-badge&logoColor=fff&logo=repo" alt="Todos os Repositórios" title="Todos os Repositórios" />
+    </picture>
+  </a>
+</p>
 
 </div>
 
@@ -55,23 +70,27 @@
          
 </p>
 
-##
 
+##
 
 ##  📊 Status:  
 <div align="center">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&Text=000&title_color=60BAF9FF&border_color=60BAF9FF&card_width=200" alt="readme-typing-svg">
 
  
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="50%" alt="lariiscriis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lariiscriis?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=60BAF9FF&Title=60BAF9FF&Ring=FFA4C7&Border=60BAF9FF" />
-  </a>
-</p>
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=970DD0FF">
+    <img width="50%" alt="EvelynSantos6's GitHub Stats" 
+         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=970DD0FF" />
+</a>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=60BAF9FF&ring=60BAF9FF&stroke=60BAF9FF&fire=60BAF9FF&currStreakNum=60BAF9FF&sideNums=60BAF9FF&currStreakLabel=FF4BB4&dates=60BAF9FF" alt="GitHub Streak" />
+    <img width="50%" 
+         src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=970DD0FF&ring=970DD0FF&stroke=970DD0FF&fire=970DD0FF&currStreakNum=60BAF9&sideNums=60BAF9&currStreakLabel=60BAF9&dates=60BAF9" 
+         alt="GitHub Streak" />
   </a>
+</p>
+
 </div>
 
 
