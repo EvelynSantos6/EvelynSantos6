@@ -7,19 +7,21 @@
   <br>
 <div>
    <img align="right" alt="EvelynSantos" width="230" height="230" src="https://github.com/user-attachments/assets/020ece4a-c1c3-402d-84a5-62cc0e5d345c">
+  
+- 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
-- 🎮 Passionate about games , I love creating immersive worlds and interactive experiences.
+- 🎓Estudando no bootcamp **Generation Brasil** uma ONG que visa o aprendizado e empregabilidade de seus alunos.
+  
+- 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
-- 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
+- Natural de Itaquaquecetuba - São Paulo.
 
-- 🎓 Currently studying **Análise e Desenvolvimento de Sistenas** at Anhembi Morumbi, and also at the ONG **Generation Brasil**
-
-- ✨ **Pronouns:** She/Her
+- ✨ **Pronome:** Ela/Dela
 </div>
 
 <br>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=60BAF9FF&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Favorite+Repos" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=60BAF9FF&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Repositórios+Favoritos" alt="Typing SVG" /></a>
 <div align="center">
 
 <!-- Link para o repositório Projeto Conta Bancária -->
@@ -46,7 +48,7 @@
 
 </div>
 
-## 🛠️ Working with: 
+## 🛠️ Habilidades com: 
 
   <table align="center">
     <tr>
@@ -80,18 +82,14 @@
 
 
 
-## 📲 Connect with me:
+## 📲 Conecte-se comigo!
 <div  align="center">
-<a href="https://www.linkedin.com/in/evelyn-santos-226094248/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
-</a>
-<a href="https://www.instagram.com/evee.sts/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ffa4c7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge)][(https://www.linkedin.com/in/SeuUsernameNoLinkedin/](https://www.linkedin.com/in/evelyn-santos-226094248/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335?style=for-the-badge)](https://mail.google.com/mail/?view=cm&to=evelyn.santos20032@gmail.com) 
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge)](https://www.instagram.com/evelyn.santos__dev/)
 
-  <a href="evelyn.santos20032@gmail.com" target="_blank" style="margin-right: 10px;">
-     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
-</a>
+<a href="https://www.instagram.com/evee.sts/" target="_blank">
+
  </div>
 
 <br> 
