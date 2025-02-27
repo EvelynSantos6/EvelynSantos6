@@ -50,21 +50,18 @@
 
 ## 🛠️ Habilidades com: 
 
-  <table align="center">
-    <tr>
-        <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/8ce7aba6-da20-404f-8d09-58cd9d857db4" alt="java-coffee-cup-logo"/>
-            <br>Java 
-        </td>        
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
-            <br>SQL
-        </td>
-    </tr>
-</table>
+  <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springframework" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+         
+</p>
+
+##
 
 
-##  📊 Stats  
+##  📊 Status:  
 <div align="center">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&Text=000&title_color=60BAF9FF&border_color=60BAF9FF&card_width=200" alt="readme-typing-svg">
 
