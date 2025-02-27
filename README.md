@@ -24,27 +24,24 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=60BAF9FF&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Repositórios+Favoritos" alt="Typing SVG" /></a>
 <div align="center">
 
-<!-- Link para o repositório Projeto Conta Bancária -->
+
 <a href="https://github.com/EvelynSantos6/Projeto-ContaBancaria">
   <picture>
-    <!--img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=AnaliseCOVID_googlecolab&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Analise - Covid19" />
-  </picture> -->
+    <img width="30%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Projeto-ContaBancaria&theme=react&bg_color=60BAF9FF&title_color=0A1B21FF&border_color=0A1B21FF&icon_color=0A18A9FF&show_icons=true&text_color=ab406a" 
+         alt="Projeto Conta Bancária" />
+  </picture>
 </a>
 
-<!-- Link para o repositório Generation-Brasil Portugol -->
-<a href="https://github.com/EvelynSantos6/Generation-Brasil">
+
+<a href="https://github.com/EvelynSantos6/banco-de-dados">
   <picture>
-    <!--img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lariiscriis&repo=CRUD_StarSign&theme=react&bg_color=fdd7e6&title_color=ff75aa&border_color=FFA4C7&icon_color=ff75aa&show_icons=true&text_color=ab406a" alt="Portugol - Generation BR" />
-  </picture> -->
+    <img width="30%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=banco-de-dados&theme=react&bg_color=60BAF9FF&title_color=0A1B21FF&border_color=0A1B21FF&icon_color=0A18A9FF&show_icons=true&text_color=ab406a" 
+         alt="Banco de Dados" />
+  </picture>
 </a>
 
-<p align="center"><br>
-  <a href="https://github.com/EvelynSantos6?tab=repositories">
-    <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-ADD8E6?style=for-the-badge&logoColor=fff&logo=repo" alt="All Repositories" title="All Repositories" />
-    </picture>
-  </a>
-</p>
 
 </div>
 
