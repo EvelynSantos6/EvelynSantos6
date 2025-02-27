@@ -1,16 +1,12 @@
 ## <div align="center"> 👋 Hi! I'm `@EvelynSantos`, welcome to my `Github profile` (●'◡'●).</div>
 
-![image](https://github.com/user-attachments/assets/9c9e9975-c7db-4c55-9f15-061793396001)
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&pause=2000&color=4DCAF9&width=1300&height=100&separator=%3C&lines=System.out.prinln(%22Hello%2C+World%22);+%3C%F0%9F%8E%93+I'am+studying+Analise+e+Desenvolvimento+de+Sistemas%2C+at+Anhembi+Morumbi.%3C%F0%9F%93%96+I+am+studying+at+the++Generation+Brasil%2C+I+am+in+class+80+DEVas+-+Full-Stack%3C%F0%9F%8C%BA+Pronouns%3A++She%2FHer.)](https://git.io/typing-svg) -->
-
   <br>
 <div>
-   <img align="right" alt="EvelynSantos" width="230" height="230" src="https://github.com/user-attachments/assets/020ece4a-c1c3-402d-84a5-62cc0e5d345c">
+   <img align="right" alt="EvelynSantos" width="230" height="230" src="https://media1.tenor.com/m/RGzWBl84imwAAAAC/aesthetic-anime.gif">
   
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
-- 🎓Estudando no bootcamp **Generation Brasil** uma ONG que visa o aprendizado e empregabilidade de seus alunos.
+- 🎓Estudando no bootcamp da ONG **Generation Brasil**.
   
 - 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
@@ -74,19 +70,21 @@
 ##
 
 ##  📊 Status:  
-<div align="center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&Text=000&title_color=60BAF9FF&border_color=60BAF9FF&card_width=200" alt="readme-typing-svg">
+ <img align="right" width="45%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&text_color=60BAF9&title_color=60BAF9&border_color=60BAF9&card_width=200" 
+       alt="Linguagens Mais Usadas" />
+</div>
 
  
-  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=970DD0FF">
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=60BAF9">
     <img width="50%" alt="EvelynSantos6's GitHub Stats" 
-         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=970DD0FF" />
+         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=60BAF9&title=0BF9EBFF&ring=970DD0FF&border=60BAF9" />
 </a>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img width="50%" 
-         src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=970DD0FF&ring=970DD0FF&stroke=970DD0FF&fire=970DD0FF&currStreakNum=60BAF9&sideNums=60BAF9&currStreakLabel=60BAF9&dates=60BAF9" 
+         src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=60BAF9&ring=970DD0FF&stroke=970DD0FF&fire=970DD0FF&currStreakNum=60BAF9&sideNums=60BAF9&currStreakLabel=60BAF9&dates=60BAF9" 
          alt="GitHub Streak" />
   </a>
 </p>
