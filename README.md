@@ -66,37 +66,27 @@
 
 ##  📊 Stats  
 <div align="center">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&Text=000&title_color=ADD8E6&border_color=ADD8E6&card_width=200" alt="readme-typing-svg">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&cardType=github&bg_color=00000000&Text=000&title_color=60BAF9FF&border_color=60BAF9FF&card_width=200" alt="readme-typing-svg">
 
  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
-    <img   width="50%" alt="lariiscriis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lariiscriis?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=FFA4C7FF&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7" />
+    <img   width="50%" alt="lariiscriis's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/lariiscriis?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=60BAF9FF&Title=60BAF9FF&Ring=FFA4C7&Border=60BAF9FF" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+    <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=60BAF9FF&ring=60BAF9FF&stroke=60BAF9FF&fire=60BAF9FF&currStreakNum=60BAF9FF&sideNums=60BAF9FF&currStreakLabel=FF4BB4&dates=60BAF9FF" alt="GitHub Streak" />
   </a>
 </div>
 
 
 
 ## 📲 Conecte-se comigo!
-<div  align="center">
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge)][(https://www.linkedin.com/in/SeuUsernameNoLinkedin/](https://www.linkedin.com/in/evelyn-santos-226094248/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/evelyn-santos-226094248/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335?style=for-the-badge)](https://mail.google.com/mail/?view=cm&to=evelyn.santos20032@gmail.com) 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge)](https://www.instagram.com/evelyn.santos__dev/)
 
-<a href="https://www.instagram.com/evee.sts/" target="_blank">
-
- </div>
-
-<br> 
-
-<div  align="center">
-<img width="600"src="file:///C:/Users/evely/Pictures/blue-icegif-7.gif"/>
-</div>
 
 
  
