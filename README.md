@@ -29,7 +29,7 @@
 <div align="center">
 
 
-<a href="https://github.com/EvelynSantos6/Projeto-ContaBancaria](https://github.com/EvelynSantos6/projeto-BlogPessoal">
+<a href="[https://github.com/EvelynSantos6/Projeto-ContaBancaria](https://github.com/EvelynSantos6/projeto-BlogPessoal](https://github.com/EvelynSantos6/projeto-BlogPessoal)">
   <picture>
     <img width="30%" 
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Projeto-ContaBancaria&theme=react&bg_color=60BAF9FF&title_color=0A1B21FF&border_color=0A1B21FF&icon_color=0A18A9FF&show_icons=true&text_color=ab406a" 
@@ -38,11 +38,11 @@
 </a>
 
 
-<a href="https://github.com/EvelynSantos6/banco-de-dados](https://github.com/EvelynSantos6/rh-queens">
+<a href="https://github.com/EvelynSantos6/rh-queens">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=banco-de-dados&theme=react&bg_color=60BAF9FF&title_color=0A1B21FF&border_color=0A1B21FF&icon_color=0A18A9FF&show_icons=true&text_color=ab406a" 
-         alt="Banco de Dados" />
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=rh-queens&theme=react&bg_color=60BAF9FF&title_color=0A1B21FF&border_color=0A1B21FF&icon_color=0A18A9FF&show_icons=true&text_color=ab406a" 
+         alt="Projeto RH Queens" />
   </picture>
 </a>
 
