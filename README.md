@@ -83,10 +83,6 @@
   </a>
 </p>
 
- <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=EvelynSantos6&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
-  </a>
-</div>
 
 
 ## 📲 Conecte-se comigo!
