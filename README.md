@@ -29,11 +29,11 @@
 <div align="center">
 
 
-<a href="https://github.com/EvelynSantos6/projeto-BlogPessoal">
+<a href="https://github.com/EvelynSantos6/Portifolio">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=projeto-BlogPessoal&theme=react&bg_color=FFA4C7&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
-         alt="Projeto Blog Pessoal" />
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Portifolio&theme=react&bg_color=FFA4C7&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
+         alt="Portfólio" />
   </picture>
 </a>
 
@@ -64,7 +64,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springframework" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"  width="40px" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40px" height="40"/> 
+      
 </p>
 
 
