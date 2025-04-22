@@ -1,8 +1,8 @@
 ## <div align="center"> 👋 Hi! I'm `@EvelynSantos`, welcome to my `Github profile` (●'◡'●).</div>
 
-<img src="https://i.postimg.cc/8zwf4fnm/349d759b30005ae8b42af786d8bbfb84.jpg" alt="Imagem Página Home" className='w-2/3'/>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=FF4BB4&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
+<img src="https://i.postimg.cc/rmB9BPGC/fa1427d280b431afea5118a2b198f35f.gif" alt="Imagem Página Home"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=FF4BB4&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
   </a>
    <img align="right" alt="EvelynSantos" width="230" height="230" src="https://i.postimg.cc/qMC0rhsk/9d106114a455ceecb0f65c6b984c2c65.gif">
   
