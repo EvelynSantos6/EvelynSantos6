@@ -1,11 +1,10 @@
 ## <div align="center"> 👋 Hi! I'm `@EvelynSantos`, welcome to my `Github profile` (●'◡'●).</div>
 
-<img src="https://i.postimg.cc/rmB9BPGC/fa1427d280b431afea5118a2b198f35f.gif" alt="Imagem Página Home"/>
+<img src="https://i.postimg.cc/gc3s0RPN/Blue-And-Purple-Professional-Technology-Linked-In-Banner.png" alt="Imagem Página Home"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=FF4BB4&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=c77dff&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
   </a>
-   <img align="right" alt="EvelynSantos" width="230" height="230" src="https://i.postimg.cc/qMC0rhsk/9d106114a455ceecb0f65c6b984c2c65.gif">
-  
+
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
 - 🎓Estudando no bootcamp da ONG **Generation Brasil**.
@@ -33,7 +32,7 @@
 <a href="https://github.com/EvelynSantos6/Portifolio">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Portifolio&theme=react&bg_color=FFA4C7&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Portifolio&theme=react&bg_color=c77dff&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
          alt="Portfólio" />
   </picture>
 </a>
@@ -42,7 +41,7 @@
 <a href="https://github.com/EvelynSantos6/rh-queens">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=rh-queens&theme=react&bg_color=FFA4C7&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=rh-queens&theme=react&bg_color=c77dff&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
          alt="Projeto RH Queens" />
   </picture>
 </a>
@@ -51,7 +50,7 @@
   <!-- Link para todos os seus repositórios -->
   <a href="https://github.com/EvelynSantos6?tab=repositories">
     <picture>
-      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-FFA4C7?style=for-the-badge&logoColor=fff&logo=repo" alt="Todos os Repositórios" title="Todos os Repositórios" />
+      <img width="32.5%" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-c77dff?style=for-the-badge&logoColor=fff&logo=repo" alt="Todos os Repositórios" title="Todos os Repositórios" />
     </picture>
   </a>
 </p>
@@ -78,13 +77,13 @@
 ##  📊 Status:  
 <div align="center">
 <img width="45%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=00000000&text_color=FF4BB4&title_color=FF4BB4&border_color=FFA4C7&card_width=200" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=00000000&text_color=FF4BB4&title_color=FF4BB4&border_color=c77dff&card_width=50%" 
        alt="Linguagens Mais Usadas" />
 
  
- <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&border=FFA4C7">
+ <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&border=c77dff">
     <img width="50%" alt="EvelynSantos6's GitHub Stats" 
-         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&border=FFA4C7" />
+         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&borderc77dff" />
   </a>
 </p>
 
