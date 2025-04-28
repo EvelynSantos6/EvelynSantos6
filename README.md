@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=c77dff&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
   </a>
-
+  
+  <div> 
+    
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
 - 🎓Estudando no bootcamp da ONG **Generation Brasil**.
