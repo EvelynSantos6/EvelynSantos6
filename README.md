@@ -9,7 +9,7 @@
     
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
-- 🎓Estudando no bootcamp da ONG **Generation Brasil**.
+- 🎓Finalizei o bootcamp Desenvolvedora fullstack da ONG **Generation Brasil**.
   
 - 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
@@ -31,20 +31,19 @@
 <div align="center">
 
 
-<a href="https://github.com/EvelynSantos6/Portifolio">
+<a href="https://github.com/EvelynSantos6/blogpessoal-front">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=Portifolio&theme=react&bg_color=c77dff&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
-         alt="Portfólio" />
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=blogpessoal-front&theme=react&bg_color=cc99ff&title_color=2a0055&border_color=8000ff&icon_color=6f00ff&show_icons=true&text_color=2a0055" 
+         alt="Blog Pessoal Frontend" />
   </picture>
 </a>
 
-
-<a href="https://github.com/EvelynSantos6/rh-queens">
+<a href="https://github.com/EvelynSantos6/projeto-BlogPessoal">
   <picture>
     <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=rh-queens&theme=react&bg_color=c77dff&title_color=6C2A39FF&border_color=FFA4C7&icon_color=ab406a&show_icons=true&text_color=6C2A39FF" 
-         alt="Projeto RH Queens" />
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=projeto-BlogPessoal&theme=react&bg_color=3d0075&title_color=e0b3ff&border_color=cc99ff&icon_color=ab40ff&show_icons=true&text_color=e0b3ff" 
+         alt="Blog Pessoal Backend" />
   </picture>
 </a>
 
@@ -78,17 +77,16 @@
 
 ##  📊 Status:  
 <div align="center">
-<img width="45%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=00000000&text_color=FF4BB4&title_color=FF4BB4&border_color=c77dff&card_width=50%" 
+<img width="40%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=1e1f22&text_color=d6a8ff&title_color=d6a8ff&border_color=b57aff" 
        alt="Linguagens Mais Usadas" />
-
- 
- <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&border=c77dff">
-    <img width="50%" alt="EvelynSantos6's GitHub Stats" 
-         src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=00000000&text=FF4BB4&title=FF4BB4&ring=FFA4C7&borderc77dff" />
-  </a>
-</p>
-
+  
+<a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight">
+  <img width="49%" 
+       alt="EvelynSantos6's GitHub Stats" 
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight&bg=3d0075&text=e0b3ff&title=e0b3ff&ring=cc99ff&border=cc99ff" />
+</a>
+</div>
 
 
 ## 📲 Conecte-se comigo!
