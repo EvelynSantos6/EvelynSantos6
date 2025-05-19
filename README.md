@@ -90,9 +90,9 @@
 
 
 ## 📲 Conecte-se comigo!
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/evelyn-santos-226094248/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/evelyn-santos-devti/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4335?style=for-the-badge)](https://mail.google.com/mail/?view=cm&to=evelyn.santos20032@gmail.com) 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge)](https://www.instagram.com/evelyn.santos__dev/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E1306C?style=for-the-badge)](https://www.instagram.com/evelyn.sts__)
 
 
 
