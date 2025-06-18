@@ -33,17 +33,17 @@
 
 <a href="https://github.com/EvelynSantos6/blogpessoal-front">
   <picture>
-    <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=blogpessoal-front&theme=react&bg_color=cc99ff&title_color=2a0055&border_color=8000ff&icon_color=6f00ff&show_icons=true&text_color=2a0055" 
-         alt="Blog Pessoal Frontend" />
+    <img width="30%"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=blogpessoal-front&theme=react&bg_color=cc99ff&title_color=2a0055&border_color=8000ff&icon_color=6f00ff&show_icons=true&text_color=2a0055&t=1"
+      alt="Blog Pessoal Frontend" />
   </picture>
 </a>
 
 <a href="https://github.com/EvelynSantos6/projeto-BlogPessoal">
   <picture>
-    <img width="30%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=projeto-BlogPessoal&theme=react&bg_color=3d0075&title_color=e0b3ff&border_color=cc99ff&icon_color=ab40ff&show_icons=true&text_color=e0b3ff" 
-         alt="Blog Pessoal Backend" />
+    <img width="30%"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=projeto-BlogPessoal&theme=react&bg_color=3d0075&title_color=e0b3ff&border_color=cc99ff&icon_color=ab40ff&show_icons=true&text_color=e0b3ff&t=1"
+      alt="Blog Pessoal Backend" />
   </picture>
 </a>
 
