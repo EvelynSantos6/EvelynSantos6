@@ -69,6 +69,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"  width="40px" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40px" height="40"/> 
+<img src="https://i.postimg.cc/85kJJGYt/discord-icon-png-28.png" alt="Discord" width="40px" height="40"/>
+
+
       
 </p>
 
