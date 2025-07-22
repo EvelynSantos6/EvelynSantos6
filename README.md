@@ -6,6 +6,7 @@
   </a>
   
   <div>   
+    
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
 - 🎓Formada pelo bootcamp de Desenvolvedora Java Full Stack da ONG **Generation Brasil**.
