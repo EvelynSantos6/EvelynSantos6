@@ -1,15 +1,16 @@
 ## <div align="center"> 👋 Hi! I'm `@EvelynSantos`, welcome to my `Github profile` (●'◡'●).</div>
 
-<img src="https://i.postimg.cc/BvnSh6q3/Blue-And-Purple-Professional-Technology-Linked-In-Banner.png" alt="Imagem Página Home"/>
+<img width="100%" src="https://i.postimg.cc/VvgZHb59/e3d0a8bae30ced132dccc3acc6697c91.gif" alt="Imagem Página Home"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=32&pause=2000&color=c77dff&width=1300&height=100&separator=%3C&lines=%F0%9F%91%BE+System.out.println(%22Hello+World%22);" alt="Typing SVG" />
   </a>
   
-  <div> 
-    
+  <div>   
 - 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
 
-- 🎓Finalizei o bootcamp Desenvolvedora fullstack da ONG **Generation Brasil**.
+- 🎓Formada pelo bootcamp de Desenvolvedora Java Full Stack da ONG **Generation Brasil**.
+  
+- 🎓 Aprendendo inglês pela ONG Soul Bilingue. 
   
 - 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
