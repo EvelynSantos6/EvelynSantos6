@@ -7,7 +7,7 @@
   
   <div>   
     
-- 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi, 3° Semestre.
 
 - 🎓Formada pelo bootcamp de Desenvolvedora Java Full Stack da ONG **Generation Brasil**.
   
