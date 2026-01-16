@@ -7,11 +7,11 @@
   
   <div>   
     
-- 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi, 3° Semestre.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistenas** na Anhembi Morumbi, 4° Semestre.
 
 - 🎓Formada pelo bootcamp de Desenvolvedora Java Full Stack da ONG **Generation Brasil**.
   
-- 🎓 Aprendendo inglês pela ONG Soul Bilingue. 
+- 🎓 Formada em inglês nível intermediário B2 pela ONG Soul Bilingue. 
   
 - 🎮 Apaixonada em games, amo criar e aprender a cada dia.
 
@@ -21,7 +21,6 @@
 </div>
 
 <br>
-
 
  ## <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=FFFFFF&repeat=false&width=435&lines=❤️+Repositórios+Favoritos" 
@@ -33,12 +32,13 @@
 <div align="center">
 
 
-<a href="https://github.com/EvelynSantos6/blogpessoal-front">
-  <picture>
-    <img width="30%"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=blogpessoal-front&theme=react&bg_color=cc99ff&title_color=2a0055&border_color=8000ff&icon_color=6f00ff&show_icons=true&text_color=2a0055&t=1"
-      alt="Blog Pessoal Frontend" />
-  </picture>
+<a href="https://github.com/EvelynSantos6/superja_react">
+<picture>
+  <img
+    width="300"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=EvelynSantos6&repo=superja_react&theme=react&bg_color=cc99ff&title_color=2a0055&border_color=8000ff&icon_color=6f00ff&show_icons=true&text_color=2a0055&t=1"
+    alt="Super Já React"/>
+</picture>
 </a>
 
 <a href="https://github.com/EvelynSantos6/projeto-BlogPessoal">
@@ -62,21 +62,18 @@
 
 ## 🛠️ Habilidades com: 
 
-  <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springframework" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"  width="40px" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40px" height="40"/> 
-<img src="https://i.postimg.cc/85kJJGYt/discord-icon-png-28.png" alt="Discord" width="40px" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
-          
-
-
-      
+ <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springframework" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40px" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript"  width="40px" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40px" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40px" height="40"/> 
+  <img src="https://i.postimg.cc/85kJJGYt/discord-icon-png-28.png" alt="Discord" width="40px" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40px" height="40"/>                           
 </p>
 
 
@@ -84,9 +81,10 @@
 
 ##  📊 Status:  
 <div align="center">
-<img width="40%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=1e1f22&text_color=d6a8ff&title_color=d6a8ff&border_color=b57aff" 
-       alt="Linguagens Mais Usadas" />
+<!--<img
+  width="400"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSantos6&layout=compact&bg_color=1e1f22&text_color=d6a8ff&title_color=d6a8ff&border_color=b57aff"
+  alt="Linguagens Mais Usadas" /> (organizando este código) -->
   
 <a href="https://awesome-github-stats.azurewebsites.net/user-stats/EvelynSantos6?cardType=github&theme=tokyonight">
   <img width="49%" 
